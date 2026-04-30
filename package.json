@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "express": "^5.2.1",
-    "started": "node.js"
+    "node": "20.17.0"
   },
   "name": "api_iot",
   "version": "1.0.0",
